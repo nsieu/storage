@@ -1,0 +1,11 @@
+Available:	24.64 GB (24,639,913,984 bytes)
+  Capacity:	24.76 GB (24,756,215,808 bytes)
+  Mount Point:	/Volumes/Data
+  File System:	Journaled HFS+
+  Writable:	Yes
+  Ignore Ownership:	No
+  BSD Name:	disk0s3
+  Volume UUID:	46174A3F-F346-332F-82F8-C9BF0F79D4DA
+  Physical Drive:
+  Media Name:	APPLE SSD SM0256F Media
+
